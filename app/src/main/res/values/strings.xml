@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">kaskrout Delivry</string>
+
+    <string name="trouver">Trouvez votre magasin</string>
+    <string name="choisir">Choisissez vos produits</string>
+    <string name="votreCommande">Votre commande arrive</string>
+
+    <string name="rechercher">Recherchez le magasin que vous voulez dans vos alentours</string>
+    <string name="faites">Faites votre choix de produits et remplissez votre panier </string>
+    <string name="recevez">Recevez votre commande livrée chez vous </string>
+
+
+
+
+</resources>

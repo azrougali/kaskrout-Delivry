@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096935781155",
+    "firebase_url": "https://kaskrout-51b52.firebaseio.com",
+    "project_id": "kaskrout-51b52",
+    "storage_bucket": "kaskrout-51b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096935781155:android:99344f4ed01f29e4b31296",
+        "android_client_info": {
+          "package_name": "com.ali.kaskroutdelivry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096935781155-u562o8smmutpengt4fuqm6uamoilmpse.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ali.kaskroutdelivry",
+            "certificate_hash": "1e7c3980b573549632472773cfc3fb49069aece9"
+          }
+        },
+        {
+          "client_id": "1096935781155-dlrf0a41egg8ede80bnsqaid9vr1k7t5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZVu6g7N1eTChwETu5eTaV2ZGT_IH_5Gs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096935781155-dlrf0a41egg8ede80bnsqaid9vr1k7t5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
